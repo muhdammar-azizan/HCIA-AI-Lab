@@ -219,3 +219,9 @@ __marimo__/
 
 # Large generated/cache files
 *.pkl
+
+# Large datasets (downloaded automatically, not needed in repo)
+Module4_AIDevelopmentFramework/flower_photos_train/
+Module4_AIDevelopmentFramework/flower_photos_test/
+Module4_AIDevelopmentFramework/data/
+Module4_AIDevelopmentFramework/MNIST/
