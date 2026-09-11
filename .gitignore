@@ -225,3 +225,6 @@ Module4_AIDevelopmentFramework/flower_photos_train/
 Module4_AIDevelopmentFramework/flower_photos_test/
 Module4_AIDevelopmentFramework/data/
 Module4_AIDevelopmentFramework/MNIST/
+
+# LLM deployment files (large executables and model files)
+Module5_ModelDeploymentAndApplication/llama_cpp/
